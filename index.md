@@ -10,13 +10,14 @@ Global Big Data Talent Sourcing-iQIYI
 ## 算法类职位
 
 [推荐算法专家](http://zhaopin.iqiyi.com/job-detail-info.html?id=517)
+
 [推荐算法高级经理](http://zhaopin.iqiyi.com/job-detail-info.html?id=330)
 
 ## 大数据职位
 
 [大数据开发工程师](http://zhaopin.iqiyi.com/job-detail-info.html?id=342)
 
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+![image](https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1489816458&di=4b4f2d1e6cc8b213fdb8def0d0120a20&src=http://qyj.youth.cn/.xwtt/201210/W020121030511608537483.jpg)
 
 
 
