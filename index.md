@@ -1,3 +1,31 @@
+Global Talent Sourcing Repo 
+------------------------------
+全球人才招聘项目职位推介
+
+## 算法类职位
+
+
+1.推荐算法工程师
+
+
+## 大数据职位
+大数据职位 Hadoop, Hive, ....
+
+[我是URL](https://qq.com)
+
+![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+
+1.
+
+
+2.
+
+
+3. 
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/crystalz1216/crystalz1216.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
