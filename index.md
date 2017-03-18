@@ -1,65 +1,22 @@
-Global Talent Sourcing Repo 
+Global Big Data Talent Sourcing-iQIYI
 ------------------------------
-全球人才招聘项目职位推介
+爱奇艺算法大数据人才招聘
+
+爱奇艺崇尚用数据说话，自2010年成立起，我们用5年的时间便实现在PC端和移动端的日均覆盖和月度覆盖第一。每天接近2000亿的用户访问，爱奇艺的大数据平台在完成每天百TB的数据存储、分析和实时计算。目前在移动端已拥有3.1亿月用户数(仅次于微信和手机QQ)，巨大的数据增速迫使我们的大数据平台快速迭代。在平台开发层面，除了实现海量日志的实时采集、异构数据源的管理及同步、统一作业提交和工作流管理之外，还提供额外的开发部署及调试工具，并提供经过优化的算法与工具库，往往使得业务实现能有数倍的性能提升。
+现在我们开始组建负责大数据和算法的技术专家团队，需要对 Hadoop/Spark 性能优化、推荐算法系统搭建方面具有丰富经验的人才加入。
+
+欢迎联系：crystalzhao@qiyi.com
 
 ## 算法类职位
 
-
-1.推荐算法工程师
-
+[推荐算法专家](http://zhaopin.iqiyi.com/job-detail-info.html?id=517)
+[推荐算法高级经理](http://zhaopin.iqiyi.com/job-detail-info.html?id=330)
 
 ## 大数据职位
-大数据职位 Hadoop, Hive, ....
 
-[我是URL](https://qq.com)
+[大数据开发工程师](http://zhaopin.iqiyi.com/job-detail-info.html?id=342)
 
 ![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
 
-1.
 
 
-2.
-
-
-3. 
-
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/crystalz1216/crystalz1216.github.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/crystalz1216/crystalz1216.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
